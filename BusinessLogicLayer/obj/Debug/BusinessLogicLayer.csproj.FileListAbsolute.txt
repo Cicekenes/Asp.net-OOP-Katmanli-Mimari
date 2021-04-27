@@ -1,0 +1,11 @@
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\bmene\source\repos\WebOOPKatmanliMimariStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
